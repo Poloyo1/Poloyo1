@@ -8,7 +8,7 @@ Estou aberto a conexões e oportunidades para compartilhar conhecimento, colabor
 🔭 Atualmente trabalhando no meu projeto de agenda inteligente com chatbot.
 
 💬 Caso queira entrar em contato, meu linkedin:
-<code><img height="32" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin"/></code>
+www.linkedin.com/in/mateuspereirahen
 ---
 
 ## 🚀 Minhas Skills
