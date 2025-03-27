@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, meu nome é Mateus Henrique Pereira!
+Faça uma breve apresentação sobre você e a sua stack.
 
-<!--
-**Poloyo1/Poloyo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente trabalhando no meu projeto de agenda inteligente com chatbot.
 
-Here are some ideas to get you started:
+💬 Para entrar em contato comigo, meu linkedin é www.linkedin.com/in/mateuspereirahen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Minhas Skills
+c# Javascript Python HTML5 CSS Bootstrap PHP Angular MySQL Java
+Kotlin
+
+
+
+⭐ GitHub Stats
+
+GitHub Stats
